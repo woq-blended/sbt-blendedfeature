@@ -1,0 +1,1 @@
+= Blended Feature packaging as sbt plugin
